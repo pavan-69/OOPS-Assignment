@@ -1,0 +1,26 @@
+1) How to create an object in java?
+Using a "new" keyword to create an object.
+
+
+2)What is the use of a new keyword in java?
+Using new keyword to create an object in the heap memory.
+
+
+
+3)What are the different types of variables in java?
+  Instance variables
+  Static variables
+  Local variables
+
+4)What is the difference between instance variables and local variables?
+Instance variables are located in between class and methods but local variables are 
+located inside the method.
+
+
+5)In which area memory is allocated for instance variables and local variables?
+Memory is allocated for instance variables is Heap memory
+Memory is allocated for local variables is Statck memory
+
+
+6)What is method overloading?
+Using same method variable but changing the Parameter.
